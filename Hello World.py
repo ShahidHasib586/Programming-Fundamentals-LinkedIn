@@ -1,0 +1,1 @@
+prit("Hello world!")
